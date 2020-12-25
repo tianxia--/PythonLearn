@@ -19,5 +19,7 @@ print(word)
 print(sentence)
 print(paragraph)
 
-
+#2.x 使用raw_input   3.x  使用input
 input("按下 enter 键退出，其他任意键显示...\n")
+
+
